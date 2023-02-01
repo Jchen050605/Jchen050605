@@ -35,7 +35,6 @@ coordinating rehearsal times with string quartet<br></li>
 
 # Clubs and Organizations
 <ul>
-</ul>
 <li>Junior Chamber Music<br>     							                                    
   <em>Chamber Musician</em><br>
   Led, tuned, & warmed up ensemble in rehearsal and concert.<br>
@@ -61,3 +60,4 @@ coordinating rehearsal times with string quartet<br></li>
   Interact with guests, assisting them with arts and crafts activities and educating them on the different exhibits<br>
   Science of Gingerbread: Introduced block programming and animation.<br></li>
 <br>
+ </ul>
