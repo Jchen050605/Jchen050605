@@ -133,6 +133,7 @@ My name is Jason Chen, a computer scientist and a violinist for 9 years living i
   </li>
   <br>
 </ul>
+
 # Work Experience
 <ul>
   <li>
