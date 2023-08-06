@@ -143,3 +143,19 @@ My name is Jason Chen, a computer scientist and a violinist for 9 years living i
     Plan lessons and activities using Code Ninjas Dojo, CSFirst with Google, web games, and powerpoint presentations<br>
   </li>
 </ul>
+
+# Classes
+<ul>
+  <li>
+    Game Design: Art and Concepts, <em>California Institute of the Arts</em><br>
+    <ul><li>Introduction to Game Design</li>
+  <li>Story and Narrative Development for Video Games</li>
+      <li>World Design for Video Games</li></ul>
+  </li>
+  <li>Introduction to Algorithms and Programming With Java, <em>College of the Canyons</em></li>
+  <li>Introduction to Python Programming, <em>Coastline Community College</em></li>
+  <li>Introduction to Game Development, <em>Harvard University</em></li>
+  <li>Web Development I and II, <em>West Ranch High School</em></li>
+  <li>AP Computer Science A, <em>West Ranch High School</em></li>
+  <li>AP Computer Science Principles, <em>West Ranch High School</em></li>
+</ul>
