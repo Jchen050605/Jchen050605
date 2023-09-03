@@ -5,8 +5,8 @@ My name is Jason Chen, a computer scientist and a violinist for 9 years living i
 <ul>
 <li><a href="https://github.com/Jchen050605/ZeldaGame/tree/master">Legend of Steve</a></li>
 <li><a href="https://github.com/Jchen050605/mario.git">Space League</a></li>
-<li><a href="https://sites.google.com/my.hartdistrict.org/jasonmywebsitescom/home">Websites(From weakest to strongest)</a></li>
-<li><a href = "https://github.com/Jchen050605/DemonSlayerGame.git">Demon Slayer: Stuck With Rabbids</a></li>
+<li><a href="https://sites.google.com/my.hartdistrict.org/byjasonchenper3/home">Websites(From weakest to strongest)</a></li>
+<li><a href="https://github.com/Jchen050605/DemonSlayerGame.git">Demon Slayer: Stuck With Rabbids</a></li>
 </ul>
 
 # Music Repertoire
