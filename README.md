@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome to My Portfolio!
 My name is Jason Chen, a computer scientist and a violinist for 9 years living in Santa Clarita, California.
 
 # My Projects
